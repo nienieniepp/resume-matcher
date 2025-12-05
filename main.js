@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://your-fc-endpoint"; // TODO: 改为你的后端地址
+const API_BASE_URL = "https://backend-ytddmiicpe.cn-hangzhou.fcapp.run"; 
 
 const uploadForm = document.getElementById("upload-form");
 const resumeFileInput = document.getElementById("resume-file");
