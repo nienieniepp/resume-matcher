@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://backend-ytddmiicpe.cn-hangzhou.fcapp.run"; 
+const API_BASE_URL = "https://resume-matcher-p2n1.onrender.com"; 
 
 const uploadForm = document.getElementById("upload-form");
 const resumeFileInput = document.getElementById("resume-file");
